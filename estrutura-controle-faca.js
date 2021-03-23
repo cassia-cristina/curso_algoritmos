@@ -12,7 +12,7 @@ function calcula (){
 }
 
 
-// Usando o for do curso:
+// Usando o for do curso de algoritmos:
 // function calcula1(){
 //     var fatorial, numero;
 
